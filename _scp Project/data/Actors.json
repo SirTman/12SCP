@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[],"faceIndex":0,"faceName":"","traits":[],"initialLevel":99,"maxLevel":99,"name":"Player","nickname":"","note":"","profile":"Main Player"},
+{"id":2,"battlerName":"","characterIndex":4,"characterName":"Main NPC_1","classId":1,"equips":[],"faceIndex":4,"faceName":"Main NPC_1","traits":[],"initialLevel":8,"maxLevel":8,"name":"Flint Lionheart","nickname":"","note":"","profile":"Fist Follower"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Main NPC_2","classId":3,"equips":[],"faceIndex":0,"faceName":"Main NPC_2","traits":[],"initialLevel":98,"maxLevel":8,"name":"Dawn Nighting","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Main NPC_1","classId":2,"equips":[],"faceIndex":0,"faceName":"Main NPC_1","traits":[],"initialLevel":98,"maxLevel":98,"name":"Yohang Lionheart","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":2,"characterName":"Main NPC_2","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Main NPC_3","traits":[],"initialLevel":7,"maxLevel":7,"name":"Athena Nighting","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":3,"characterName":"Main NPC_2","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main_Theo","traits":[],"initialLevel":99,"maxLevel":99,"name":"Tedd Greenwood","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":4,"characterName":"Main NPC_4","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Main_Theo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yueila Wood","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"Main NPC_4","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Main_A_TheoA","traits":[],"initialLevel":1,"maxLevel":99,"name":"Thaddeus Greenwood","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":1,"characterName":"Main NPC_4","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Main_A_Crystelia","traits":[],"initialLevel":1,"maxLevel":99,"name":"Crystelia Granadele","nickname":"","note":"","profile":""}
+]
